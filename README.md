@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 | AI Engineer for ACCIONA & DXC Technology<br>🎓 | Dual Degree Software Engineering + Mathematics<br>🛠️ | Discord Master<br>🏆 | Freelance Tournament Admin for eSports<br>🕹️ | Ex-Head Admin of Golden Dust Cup, SFL & Rocket Area<br>💚 | eGrillos CEO & Founder<br>
+💼 | AI Engineer for ACCIONA & DXC Technology<br>🎓 | Dual Degree Software Engineering + Mathematics<br>🛠️ | Discord Master and bot developer<br>🏆 | Freelance Tournament Admin for eSports<br>🕹️ | Ex-Head Admin of Golden Dust Cup, SFL & Rocket Area<br>💚 | eGrillos CEO & Founder<br>
 
 
 ## 🌐 Socials:
